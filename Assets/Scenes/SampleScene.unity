@@ -329,7 +329,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cubePrefab: {fileID: 1081132958713425036, guid: 5a45ec61d56c97049a13c14ecbcb78a4, type: 3}
-  generations: 3
+  generations: 2
   height: 100
   width: 100
   zValue: 0
